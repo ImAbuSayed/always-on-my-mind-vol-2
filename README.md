@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-on-my-mind-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Always On My Mind, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-on-my-mind-vol-2/) |
+| **Get License** | [Commercial Licensing for Always On My Mind, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-on-my-mind-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `06e760528cdfd24ffa6792a939f88d688945e72712d707cd47116ab09fd725c7` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
