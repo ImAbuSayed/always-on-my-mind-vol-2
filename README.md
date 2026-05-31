@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-on-my-mind-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Always On My Mind, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-on-my-mind-vol-2/) |
+| **Get License** | [Request Licensing for Always On My Mind, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-on-my-mind-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the shadows dancing on your skin
+> A quiet fire slowly pulling me in
+> Your midnight whisper is the only sound
+> I’m lost inside the way we’re spinning round
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
